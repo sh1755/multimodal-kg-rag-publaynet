@@ -239,5 +239,5 @@ report/
 ## Author
 
 **Dr.Sajjad Hussain**
-Doctoral Researcher in Robotics and Artificial Intelligence
+Researcher in Robotics and Artificial Intelligence
 University of Brighton, United Kingdom
